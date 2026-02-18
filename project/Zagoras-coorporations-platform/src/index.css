@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  button {
+    @apply border border-black rounded-xl px-5 py-1
+  }
+  .section-header {
+    @apply text-3xl font-serif font-bold text-center mb-8 text-black;
+  }
+}

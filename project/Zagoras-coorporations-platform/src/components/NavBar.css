@@ -1,0 +1,36 @@
+.navBar {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f8f8;   
+    justify-content: space-evenly; 
+
+    position: fixed;
+    top: 0;
+    left: 0; right: 0;
+    z-index: 1000;
+    height: 64px;
+
+    background: rgba(248, 248, 248, 0.9); 
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.navBar a {
+    display: inline-block;
+    padding: 8px 10px;
+    color: #4b5563;
+    text-decoration: none;
+    transition: color .15s ease;
+}
+.navBar a:hover { color: #111827; }
+
+
+.navBar a.active {
+    font-weight: 600;
+    color: #111827;
+    border-bottom: 2px solid #111827;
+}
+
+.main-with-offset { padding-top: 64px; }
+

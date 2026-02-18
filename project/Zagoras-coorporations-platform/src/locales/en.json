@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About the Cooperatives",
+    "activities": "Activities",
+    "map": "Map",
+    "plan": "Plan Your Trip",
+    "experiences": "Experiences"
+  },
+
+  "home": {
+    "title": "Welcome to the Cultural Tourism of the Zagora Cooperatives",
+    "quote": "Zagora: tradition, cooperation, culture at every step."
+  },
+
+  "slider": {
+    "womens": "Women’s Agrotourism Cooperative",
+    "zagorin": "Agricultural Cooperative",
+    "bibliothiki": "Public Historical Library",
+    "projectZ": "Project Zeta Conference and Educational Center",
+    "zagorin-apples1": "Products of Protected Designation of Origin",
+    "magazaki": "Local Products Outlet"
+  },
+
+  "about_zagora": {
+    "title": "About the Women’s Agrotourism Cooperative & the Agricultural Cooperative",
+    "paragraph1": "The women of our cooperative, using the pure and high-quality local products of the fertile land of Pelion, revive the rich culinary culture they inherited and produce traditional sweets and jams using time-honored methods.",
+    "paragraph2": "The Zagora Agricultural Cooperative is one of the oldest cooperatives in Greece.",
+    "paragraph3": "The trademark is officially registered, and every authentic Zagorin apple carries the distinctive sticker that sets it apart. In 1996, recognition came with the “Protected Designation of Origin” label from the European Union, and Zagorin apples began traveling all over the world.",
+    "quick_facts_title": "Quick Facts",
+    "quick_facts": [
+      "Zagora is the largest village in Pelion",
+      "The Starking Delicious apple variety was introduced to the Zagora area of Pelion in the early 1950s",
+      "Rigas Feraios received his early education in Zagora"
+    ]
+  },
+
+  "activities": {
+    "title": "Activities",
+    "upcoming_events": "Upcoming Events"
+  },
+
+  "map": {
+    "title": "Events Map",
+    "view_in_maps": "View on Map"
+  },
+
+  "plan": {
+    "title": "Plan Your Trip",
+    "sign_in": "Add",
+    "sign_out": "Remove",
+    "your_plan": "Your Schedule",
+    "event": "Event",
+    "location": "Location",
+    "time": "Date",
+    "actions": "Actions"
+  },
+
+  "experiences": {
+    "title": "Visitor Experiences",
+    "reviews": [
+        {
+        "title": "Dimitra",
+        "review": "Taking part in the cooking class was a unique experience! We made strawberry jam using freshly picked Zagora apples.",
+        "date": "20/07/2026",
+        "location": "Zagora",
+        "image": ""
+        },
+        {
+        "title": "George",
+        "review": "We were guided through the facilities of the agricultural cooperative and saw all stages of the production process up close.",
+        "date": "03/08/2026",
+        "location": "Zagora",
+        "image": ""
+        }
+    ]
+  }
+}

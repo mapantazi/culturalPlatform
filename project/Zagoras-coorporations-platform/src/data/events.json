@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Ξενάγηση στη Δημόσια Ιστορική Βιβλιοθήκη",
+    "title_en": "Guided Tour at the Zagora Public Historical Library",
+    "date": "12/07/2026",
+    "location": "'Αγιος Γεώργιος, Ζαγορά",
+    "location_url": "https://maps.app.goo.gl/u9r87gPHgBPqbu1o6",
+    "description": "Ξενάγηση στην Ιστορική Βιβλιοθήκη και στα σπάνια χειρόγραφα βιβλία της.",
+    "description_en": "Tour on the Historical Library and Its Rare Manuscripts..",
+    "image": "photos/bibliothiki.jpg",
+    "lat": 39.4418,
+    "lng": 23.1029
+  },
+  {
+    "title": "Ξενάγηση στo Aγροτικό Συνεταιρισμό",
+    "title_en": "Tour of the Agricultural Cooperative",
+    "date": "06/06/2026",
+    "location": "Ψυκτικές εγκαταστάσεις Συνεταιρισμού",
+    "location_url": "https://maps.app.goo.gl/jb1cyptJqHKMRaHM8",
+    "description": "Ξενάγηση στις εγαταστάσεις του συνετερισμού και παρακολούθηση της διαδικασίας επεξεργασίας του μήλου.",
+    "description_en": "Τour of the cooperative’s facilities and overview of the apple processing process..",
+    "image": "photos/Zagorin-apples.png",
+    "lat": 39.4444,
+    "lng": 23.1170
+  },
+  {
+    "title": "Προβολή Ντοκιμαντερ της ιστορίας του τόπου",
+    "title_en": "Documentary screening on the history of the region",
+    "date": "22/06/2026",
+    "location": "Project Z, Ζαγορά",
+    "location_url": "https://maps.app.goo.gl/64o5bv97C4GjHx5r5",
+    "description": "Παρουσίαση ντοκιμαντέρ που αναδεικνύει την ιστορία, την πολιτιστική κληρονομιά και τις σημαντικότερες στιγμές του τόπου.",
+    "description_en": "Documentary presentation highlighting the history, cultural heritage, and most significant moments of the village.",
+    "image": "photos/project.jpg",
+    "lat": 39.4429,
+    "lng": 23.1026
+  },
+  {
+    "title": "Μαθήματα μαγειρικής στο Γυναικείο Συνεταιρισμό",
+    "title_en": "Cooking classes at the Women's Cooperative.",
+    "date": "19/08/2026",
+    "location": "Αρχοντικό Δρακοπούλου, Ζαγορά",
+    "location_url": "https://maps.app.goo.gl/Jm8V5NsP4BPa9NGy5",
+    "description": "Οι γυναίκες του συνεταιρισμού θα σας δείξουν πώς φτιάχνουν παραδοσιακές μαρμελάδες και γλυκά του κουταλιού, μοιράζοντας μαζί σας τα μυστικά και τις συνταγές τους.",
+    "description_en": "The women of the cooperative will demonstrate how to make traditional jams and spoon sweets, sharing their secrets and recipes with us.",
+    "image": "photos/sweets.png",
+    "lat": 39.4444,
+    "lng": 23.1027
+  },
+  {
+    "title": "Γαστρονομικό Φεστιβάλ",
+    "title_en": "Gastronomy Festival",
+    "date": "10/08/2026",
+    "location": " Πλατεία Αγίας Κυριακής, Ζαγορά",
+    "location_url": "https://maps.app.goo.gl/ixQwx9sTHBdy17iJ6",
+    "description": "Mια γιορτή γεύσεων και παραδόσεων.",
+    "description_en": "Α celebration of flavors and traditions.",
+    "image": "photos/festival.jpg",
+    "lat": 39.4395,
+    "lng": 23.1033
+  }
+]

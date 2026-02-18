@@ -1,0 +1,64 @@
+{
+    "nav": {
+        "home" : "Home",
+        "about" : "About Sindetiras",
+        "activities" : "Activities",
+        "map" : "Map",
+        "experiences" : "Experiences"
+    },
+
+    "home" : {
+        "title" : " Welcome to the Cultural World of Sindetiras Jewels",
+        "quote" : " A handmade jewel, a symbolic bridge between creator and receiver. "
+    }, 
+    
+    "slider" : {
+        "handmade": "Handcrafted Silver Jewelry",
+        "shop": "Our cozy little shop on the square",
+        "silver-ring": "Silver Ξewelry",
+        "cross-silver": "Custom  Οrders"
+    },
+
+    "AboutSindetiras" : {
+        "title": "About Syndetiras",
+        "paragraph1": "Syndetiras is a small workshop of handmade silver jewelry, where each design is crafted with passion and close attention to detail.",
+        "paragraph2": "It is located in the small square of Agios Georgios, Zagora, Pelion.",
+        "paragraph3": "Anna — an interior decorator and silversmith — creates jewelry with clean, minimal lines.",
+        "quick_facts_title": "Quick Facts",
+        "quick_facts": [
+            "Each piece of jewelry is unique",
+            "Detail, quality, and authenticity"
+        ]
+    } , 
+
+    "activities" : {
+        "title" : " Activities ",
+        "upcoming_events" : " Upcoming Events "
+    },
+
+    "map" : {
+        "title" : " Event Map ",
+        "view_in_maps" : " View in Google Maps "
+    },
+
+    "experiences" :  {
+        "title" : " Visitors Experiences ",
+        "reviews" : [
+            {
+                "title" : "Kyriaki",
+                "review" : "I attended the workshop and was truly impressed! Anna was very approachable, explained everything in a simple and clear way, and helped us create our own silver piece of jewelry from scratch. I wholeheartedly recommend it to anyone who loves handmade craftsmanship and wants to learn something new.",
+                "date" : "20/06/2025",
+                "location" : "",
+                "image" : ""
+            },
+            {
+                "title" : "Georgia",
+                "review" : "A great variety of designs with remarkable attention to detail. The staff is friendly and helps you find exactly what you’re looking for. The shop has a unique aesthetic, and every piece feels thoughtfully and lovingly made.",
+                "date" : "05/04/2025",
+                "location" : "",
+                "image" : ""
+            }
+        ]
+
+    }
+}

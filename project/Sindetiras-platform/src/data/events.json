@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Silver Workshop",
+    "title_en": "Silver Workshop",
+    "date": "01/07/2026",
+    "location": "Αγιος Γεώργιος, Ζαγορά Πήλιο",
+    "location_url": "https://maps.app.goo.gl/1Tp9eeBAp6ZMkHHJ8",
+    "description": "Η μεταμόρφωση του ασημιού μέσα από την επεξεργασία.",
+    "description_en": "The transformation of silver through working and processing.",
+    "image": "photos/workshop2.jpg",
+    "lat": 39.4444,
+    "lng": 23.1028
+  },
+  {
+    "title": "Λαϊκο Γλέντι",
+    "title_en": "Live Music",
+    "date": "07/07/2026",
+    "location": "Αγιος Γεώργιος, Ζαγορά Πήλιο",
+    "location_url": "https://maps.app.goo.gl/NVNGTKxFpRJu8s1w9",
+    "description": "Ζωντανή μουσική με έντεχνα και λαίκά-ρεμπέτικα.",
+    "description_en": "Live music:Entechno,Laïko and Rebetik.",
+    "image": "photos/glenti.jpg",
+    "lat": 39.4442,
+    "lng": 23.1027
+  }
+]
